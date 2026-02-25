@@ -1,0 +1,1 @@
+this file contains the result of my weather analysis of iit gandhinagar for lat 10 days
